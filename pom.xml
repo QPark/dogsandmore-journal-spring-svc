@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.qpark.etermin.spring.service</groupId>
 	<artifactId>dogsandmore-journal-spring-svc</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.4</version>
 	<name>dogsandmore-journal-spring-svc</name>
 	<description>ETermin Journal Spring Boot application</description>
 	<properties>
@@ -37,7 +37,7 @@
 		<dependency>
 			<groupId>com.qpark.etermin</groupId>
 			<artifactId>dogsandmore-journal-lib</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
 
